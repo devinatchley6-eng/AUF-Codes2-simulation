@@ -1,0 +1,8 @@
+auf-codes2-simulation/
+├── LICENSE                <-- The MIT License (Your Copyright)
+├── CITATION.cff           <-- The Metadata for the DOI
+├── README.md              <-- The Manifesto & Documentation
+├── requirements.txt       <-- Dependencies
+└── src/
+    ├── __init__.py
+    └── codes2_core.py     <-- The Simulation Engine
